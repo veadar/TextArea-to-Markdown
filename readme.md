@@ -8,7 +8,7 @@
 
 ##Download
 
-Click Here → [Download]()
+Click Here → [Download](https://github.com/veadar/TextArea-to-Markdown/releases)
 
 ##Special Thanks & Used Codes
 
